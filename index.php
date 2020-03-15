@@ -79,9 +79,8 @@
 
 
 <div class="content-box" id="description">
-<div><h1 id="instagram-fonts">Instagram Fonts Generator</h1>
-<h2 id="texth" style="font-size:16px;">Generate text fonts that you can copy and paste into your Instagram Bio. Useful for generating <b>instagram bio ideas</b> symbols to make your IG profile have more individuality and popularity. Just type any text into the input box and you will generate hundreds text fonts art instagram variations. Cool Fancy Text Generator is a copy and paste font generator and font changer that creates Twitter, Facebook, Instagram fonts. It converts a normal text to different free cool fonts styles, such as tattoofonts, calligraphy fonts, web script fonts, cursive fonts, handwriting fonts. Generate Decorate text, Big Text Generator, Emoticon Text, Emoji Text.
-😍Learn how to customize your Instagram fonts in your bio, captions, all you have to do is copy the text, open the Instagram app, and paste it. copy and paste symbols, fancy text fonts, tattoo font generator, cursive font generator online, font styles download free and instagram story fonts for FREE 🏆</h2>
+<div><h1 id="instagram-fonts">Instagram Fonts Generator | By Udit mehra 631</h1>
+<h2 id="texth" style="font-size:16px;"> h2 here text pls 🏆</h2>
 </div>
 </div>
 </div>
