@@ -3,4 +3,4 @@ instagram fonts generator source code , instagram fonts generator html code ,ins
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=unclecode/crawl4ai&type=Date)](https://star-history.com/#unclecode/crawl4ai&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=uditmehra631/instagram-fonts-generator-script-download&type=Date)](https://star-history.com/#unclecode/instagram-fonts-generator-script-download&Date)
